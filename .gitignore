@@ -1,0 +1,5 @@
+php_errorlog
+.well-known/
+php_mail.log
+
+
